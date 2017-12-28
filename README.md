@@ -1,7 +1,5 @@
-# WSDM_2018
+# WSDM_2018(Ranking 10)
 WSDM - KKBox's Churn Prediction Challenge / Can you predict when subscribers will churn?
-
-result : private rank => 10!
 
 ![](https://github.com/RyuJiseung/image/blob/master/kaggle_leaderboard.png?raw=true)
 

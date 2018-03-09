@@ -3,6 +3,8 @@ WSDM - KKBox's Churn Prediction Challenge / Can you predict when subscribers wil
 
 ![](https://github.com/RyuJiseung/image/blob/master/kaggle_leaderboard.png?raw=true)
 
+https://github.com/RyuJiseung/WSDM_2018/blob/master/kkbox_churn_prediction.pdf
+
 ## Data description
 
 In this task, you will be predicting whether a user will churn after their subscription expires. Specifically, we want to see if a user make a new service subscription transaction within 30 days after their current membership expiration date.
